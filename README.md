@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Fikry Rizky</h1>
 
-<!--
-**Kipikri-f/Kipikri-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a Computer Science Student</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About Me</h2>
+
+- 🌱 I'm currently looking for **something** that matches my **interests**
+
+- 📫 Reach me on instagram **@rzfdillah**
+
+- ⚡ I like **playing games** every day
